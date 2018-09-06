@@ -1,4 +1,4 @@
-# sillysong
+# Silly Song
 Silly song iOS project.
 - Run the application in XCode.
 - Enter any name to auto generate a silly song based on the name.
